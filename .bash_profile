@@ -10,7 +10,7 @@ alias java21='export JAVA_HOME=$JAVA_21_HOME'
 
 # Personal
 
-PROJECTS=/Users/thunder/Desktop/projects
+PROJECTS=/Users/<username>/Desktop/projects
 
 # Setting PATH for Python 2.7
 # The original version is saved in .bash_profile.pysave
